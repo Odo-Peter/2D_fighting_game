@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="shortcut icon"
+      href="./img/reshot-icon-ninja-BSW3LUHA5E.svg"
+      type="image/x-icon"
+    />
+    <title>2D - Fighting_Game</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="life-time">
+        <div class="player">
+          <div class="player-health"></div>
+        </div>
+        <div class="timeframe">100</div>
+        <div class="enemy">
+          <div class="enemy-health"></div>
+        </div>
+      </div>
+      <div class="display-text">Player 1 wins</div>
+      <button id="restart-btn">Restart Game</button>
+
+      <canvas id="canavas"></canvas>
+    </div>
+
+    <script src="./js/utilities.js"></script>
+    <script src="./js/classes.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
