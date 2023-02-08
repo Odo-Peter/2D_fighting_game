@@ -23,4 +23,4 @@
  
 ### P.S: There are fun sounds in the game also 😁, have fun and get back to me if you want 'US' to improve on anything, alongside, learn new fun javaScript concepts.
 
-[Link To the Live URL]()
+clone to your local machine and enjoy ❣
